@@ -2,6 +2,8 @@
 
 This project implements a simple Simon game using JavaScript, jQuery, HTML, and CSS. The Simon game is a memory skill game that challenges players to remember sequences of colors and sounds.
 
+Link to access the game: https://sandeepedara001.github.io/Simon-Game/
+
 ## Features
 
 - Dynamically generated sequences of colors.
